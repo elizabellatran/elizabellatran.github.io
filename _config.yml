@@ -13,10 +13,10 @@ highlighter:      rouge
 # permalink:        pretty
 
 # Setup
-title:            "Xiaozhou's Notes"
+title:            "Elizabeth Tran"
 tagline:          ''
 description:      ''
-url:              https://yangxiaozhou.github.io
+url:              https://elizabellatran.github.io/
 baseurl:          ''
 
 author:
@@ -29,7 +29,7 @@ paginate_path:    "/blog/page:num/"
 # version:          2.1.0
 
 github:           
-  repo:           https://github.com/yangxiaozhou/yangxiaozhou.github.io
+  repo:           https://github.com/elizabellatran/elizabellatran.github.io
 
 plugins: 
   - jekyll-paginate
