@@ -28,6 +28,8 @@ If you want to see some of my academic publications, click here to go to my <a h
 # Art 
 {% include slider.html selector="slider1" %}
 
+Check out my Etsy shop and my <a href ="https://www.instagram.com/moonwispshop">Moonwisp</a> Instagram ! 
+
 <!-- # Connect with me 
 <ul class="icons">
   <a href="https://www.linkedin.com/in/elizabeth-tran-309a0045/"><i class="fab fa-linkedin"></i></a>
