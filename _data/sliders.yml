@@ -1,6 +1,6 @@
 # example slider
 # source: https://github.com/jekylltools/jekyll-ideal-image-slider-include?tab=readme-ov-file 
-- selector: artslider
+- selector: slider1
   bullets: true
   captions: true 
   images:

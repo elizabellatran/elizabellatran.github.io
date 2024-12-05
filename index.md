@@ -47,8 +47,6 @@ Something about the second picture.
 -->
 
 
-
-
 For <a href="https://deniz-g-lerosi.itch.io/chromatic-agape"> Chromatic Agape</a>, I was a sprite programmer and one of the editors for the NaNoRen2024 and OtomeJam2024 release. 
 
 
@@ -56,7 +54,7 @@ If you want to see some of my academic publications, click here to go to my <a h
 
  
 # Art 
-{% include slider.html selector="artslider" %}
+{% include slider.html selector="slider1" %}
 
 # Connect with me 
 <ul class="icons">
