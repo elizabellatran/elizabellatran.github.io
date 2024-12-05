@@ -21,20 +21,29 @@ For Under the False Sky [heca; tomb], I was an editor. Download and play the <a 
 
 <article>
 
-<!-- ![image]("/assets/galllery/impluse.png){: style="float: left"}
+<!-- ![image]("/assets/gallery/impluse.png){: style="float: left"}
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src='{{"/assets/galllery/impluse.png" }}'>
+    <img src='{{"/assets/gallery/impluse.png" }}'>
   </div>
   <div>
       <h4>Under the False Sky [ Impluse ]</h4>
       <p>For Under the False Sky [ Impluse ], I was an editor. Play the game on your browser or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a></p>
     </div>
  </div>
-										</article> <-->
+										</article> 
+                    
+                    {% include module.html image_path="/assets/galllery/impluse.png" title="Under the False Sky [ Impluse ]" description="For Under the False Sky [ Impluse ], I was an editor. Play the game on your browser or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>." %}<-->
+![](/assets/gallery/impluse.png){: .align-left}<h2> Under the False Sky [ Impluse ]
+For Under the False Sky [ Impluse ], I was an editor. Play the game on your browser or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>
+{:style="clear: left"}
 
-{% include module.html image_path="/assets/galllery/impluse.png" title="Under the False Sky [ Impluse ]" description="For Under the False Sky [ Impluse ], I was an editor. Play the game on your browser or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>." %}
+![](/assets/gallery/impluse.png){: .align-left}
+Something about the second picture.
+{:style="clear: left"}
+
+
 
 For <a href="https://deniz-g-lerosi.itch.io/chromatic-agape"> Chromatic Agape</a>, I was a sprite programmer and one of the editors for the NaNoRen2024 and OtomeJam2024 release. 
 
