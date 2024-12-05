@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+order: 1
 ---
 Note: Page is still under construction  <br>
 
@@ -11,8 +12,7 @@ Hi, I’m Elizabeth, a Bay Area dweller with a love for all things cute. By day,
 
 # Accomplishments
 
-If you want to see some of my academic publications, click here to go to my [Google Scholar](
-  <a href="https://scholar.google.com/citations?user=ytjqu-EAAAAJ&hl=en"> GoogleScholar</a>.
+If you want to see some of my academic publications, click here to go to my <a href="https://scholar.google.com/citations?user=ytjqu-EAAAAJ&hl=en"> GoogleScholar</a>.
 
  
 # Art 
