@@ -10,7 +10,7 @@ Hi, I’m Elizabeth, a Bay Area dweller with a love for all things cute. By day,
 
 # Current Projects
 
-Demo coming early 2025 - Project Makina -- I'm multifunctional for this game - writer, editor, and sprite artist
+Demo coming early 2025 - <a href= "https://pixelboltgames.wixsite.com/pixelbolt-games"> Project Makina</a> -- I'm multifunctional for this game - writer, editor, and sprite artist ! 
 
 
 # Accomplishments
@@ -21,7 +21,7 @@ For Under the False Sky [heca; tomb], I was an editor. Download and play the <a 
 For Under the False Sky [ Impluse ], I was an editor. Play the game on your browser or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a> 
 
 
-For this project, I was a sprite programmer and one of the editors for the NaNoRen2024 and OtomeJam2024 release. 
+For <a href="https://deniz-g-lerosi.itch.io/chromatic-agape"> Chromatic Agape</a>, I was a sprite programmer and one of the editors for the NaNoRen2024 and OtomeJam2024 release. 
 
 
 If you want to see some of my academic publications, click here to go to my <a href="https://scholar.google.com/citations?user=ytjqu-EAAAAJ&hl=en"> GoogleScholar</a>.
