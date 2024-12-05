@@ -30,7 +30,7 @@ If you want to see some of my academic publications, click here to go to my <a h
 
  
 # Art 
-{% include slider.html selector="example_slider" %}
+{% include slider.html selector="artslider" %}
 
 # Connect with me 
 <ul class="icons">
