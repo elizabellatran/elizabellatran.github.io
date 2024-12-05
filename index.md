@@ -20,15 +20,11 @@ Demo coming early 2025 - <a href= "https://pixelboltgames.wixsite.com/pixelbolt-
 For Under the False Sky [heca; tomb], I was an editor. Download and play the <a href="https://elduator.itch.io/hecatomb"> game</a> 
 
 <article>
+
+![image](path-to-image.jpg){: style="float: left"}
+<h4>Under the False Sky [ Impluse ]</h4>
 For Under the False Sky [ Impluse ], I was an editor. Play the game on your browser or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a> 
 
-
-											<a href="#" class="image"><img src="assets/gallery/impluse.png" alt="" /></a>
-											<div class="inner">
-												<h4>Nuts: A Dark Romance Game</h4>
-												<p>I made the Trailer for this game. You should check it out <a href="https://www.youtube.com/watch?v=1JMfyEXJ50M"><b>here</b>.</a></p>
-												<p>You can also check out the game on <a href=https://lilalove.itch.io/nuts><b>itch.io</b></a> for free.</p>
-											</div>
 										</article>
 For <a href="https://deniz-g-lerosi.itch.io/chromatic-agape"> Chromatic Agape</a>, I was a sprite programmer and one of the editors for the NaNoRen2024 and OtomeJam2024 release. 
 
