@@ -22,7 +22,7 @@ author:
   name:           'Elizabeth'
 
 paginate:         10
-paginate_path:    "/about/" ---> 
+paginate_path:    "/about/" 
 
 # Custom vars
 # version:          2.1.0
