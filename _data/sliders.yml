@@ -1,17 +1,22 @@
 # example slider
 # source: https://github.com/jekylltools/jekyll-ideal-image-slider-include?tab=readme-ov-file 
-- selector: galleryslider 
-  captions: true
+- selector: artslider 
+  captions: false
   images:
     - src: /assets/gallery/DHIL.png
+      title: Dan Heng IL
       alt: image one
     - src: /assets/gallery/jingliu.png
+      title: Jing Liu 
       alt: image two
     - src: assets/gallery/Blade1.png
+      title: Bladie 
       alt: image three
     - src: assets/gallery/Blade2.png
+      title: Bladie 
       alt: image three
     - src: assets/gallery/SR.png
+      title: Sunday & Robin  
       alt: image three
   settings:
     height: "'auto'"

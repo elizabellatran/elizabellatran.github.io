@@ -1,5 +1,7 @@
 ---
 layout: default
+image_sliders:
+  - artslider
 ---
 <b>Note:</b> Page is still under construction  <br>
 <br>
