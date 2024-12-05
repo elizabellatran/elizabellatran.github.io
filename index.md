@@ -22,7 +22,7 @@ For Under the False Sky [heca; tomb], I was an editor. Download and play the <a 
 <article>
 
 <!-- ![image]("/assets/galllery/impluse.png){: style="float: left"}
- <-->
+
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
     <img src='{{"/assets/galllery/impluse.png" }}'>
@@ -32,7 +32,10 @@ For Under the False Sky [heca; tomb], I was an editor. Download and play the <a 
       <p>For Under the False Sky [ Impluse ], I was an editor. Play the game on your browser or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a></p>
     </div>
  </div>
-										</article>
+										</article> <-->
+
+{% include module.html image_path="/assets/galllery/impluse.png" title="Under the False Sky [ Impluse ]" description="For Under the False Sky [ Impluse ], I was an editor. Play the game on your browser or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>." %}
+
 For <a href="https://deniz-g-lerosi.itch.io/chromatic-agape"> Chromatic Agape</a>, I was a sprite programmer and one of the editors for the NaNoRen2024 and OtomeJam2024 release. 
 
 
