@@ -8,14 +8,21 @@ layout: default
 Hi, I’m Elizabeth, a Bay Area dweller with a love for all things cute. By day, I'm a Data Scientist. By night, I'm an indie game developer - part of <a href="https://pixelboltgames.wixsite.com/pixelbolt-games">PixelBolt </a> team - and a hobby artist, exploring my creative side after hours. 🎨🎮
 
 
+# Current Projects
+
+Demo coming soon - Project Makina -- I'm multifunctional for this game - writer, editor, and sprite artist
+
+
 
 # Accomplishments
 
+For Under the False Sky [heca; tomb], I was an editor. Download and play the <a href="https://elduator.itch.io/hecatomb"> game</a> 
 
-For these two projects, I was an editor. 
+
+For Under the False Sky [ Impluse ], I was an editor. Play the game on your browser or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a> 
 
 
-For this project, I was a sprite programmer and one of the editors. 
+For this project, I was a sprite programmer and one of the editors for the NaNoRen2024 and OtomeJam2024 release. 
 
 
 If you want to see some of my academic publications, click here to go to my <a href="https://scholar.google.com/citations?user=ytjqu-EAAAAJ&hl=en"> GoogleScholar</a>.
