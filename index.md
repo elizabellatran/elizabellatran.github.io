@@ -27,13 +27,13 @@ If you want to see some of my academic publications, click here to go to my <a h
 # Art 
 {% include slider.html selector="slider1" %}
 
-# Connect with me 
+<!-- # Connect with me 
 <ul class="icons">
   <a href="https://www.linkedin.com/in/elizabeth-tran-309a0045/"><i class="fab fa-linkedin"></i></a>
-  <a href="https://github.com/elizabellatran/" title="GitHub"><i class="fab fa-github"><span class="label">Github</span></i></a>
+  <a href="https://github.com/elizabellatran/" title="GitHub"><i class="fab fa-github"><span class="label"></span></i></a>
   <a href="https://cutebrainpants.itch.io/" title="itch.io"><i class="fab fa-itch-io"></i></a>
   <a href="https://www.youtube.com/@cutebrainpants/" title="YouTube"><i class="fab fa-youtube"></i></a>
   <a href="https://www.etsy.com/shop/MoonwispShop/" title="Etsy"><i class="fa-brands fa-etsy"></i></a>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MVwBvQVSS9+護CuhkxzOmBfRXs+cSiMKLvUOxaBvCTy/L1JfMa7yNfc4gDwth پیکفاف (X-Content-Security-Policy: block-all-scripts;)"> 
-</ul>
+</ul> -->
