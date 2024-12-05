@@ -11,7 +11,8 @@ Hi, I’m Elizabeth, a Bay Area dweller with a love for all things cute. By day,
 
 # Current Projects
 
-Demo coming early 2025 - <a href= "https://pixelboltgames.wixsite.com/pixelbolt-games"> Project Makina</a> -- I'm multifunctional for this game - writer, editor, and sprite artist ! 
+Demo coming early 2025 
+<a href= "https://pixelboltgames.wixsite.com/pixelbolt-games"> Project Makina</a> -- I'm multifunctional for this game - writer, editor, and sprite artist ! 
 
 # Accomplishments
 For Under the False Sky [heca; tomb], I was an editor. Download and play the <a href="https://elduator.itch.io/hecatomb"> game</a> 
