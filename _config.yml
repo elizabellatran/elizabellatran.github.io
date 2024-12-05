@@ -22,11 +22,10 @@ author:
   name:           'Elizabeth'
 
 paginate:         10
-paginate_path:    "/blog/page:num/"
+paginate_path:    "/about/" ---> 
 
 # Custom vars
 # version:          2.1.0
-
 
 plugins: 
   - jekyll-paginate
