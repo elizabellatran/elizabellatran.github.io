@@ -21,7 +21,7 @@ For Under the False Sky [heca; tomb], I was an editor. Download and play the <a 
 
 <article>
 
-![image](path-to-image.jpg){: style="float: left"}
+![image]("/assets/galllery/impluse.png){: style="float: left"}
 <h4>Under the False Sky [ Impluse ]</h4>
 For Under the False Sky [ Impluse ], I was an editor. Play the game on your browser or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a> 
 
