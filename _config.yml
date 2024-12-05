@@ -31,3 +31,6 @@ plugins:
   - jekyll-archives
   - jekyll-commonmark-ghpages
   - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
