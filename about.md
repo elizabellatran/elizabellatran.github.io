@@ -18,19 +18,8 @@ If you want to see some of my academic publications, click here to go to my [Goo
 
 # Socials
 
-platforms:
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://https://github.com/elizabellatran/
-  - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/elizabeth-tran-309a0045/
-  - name: itch.io
-    icon: <i class="fa-brands fa-itch-io"></i>
-    link: https://https://github.com/elizabellatran/
-  - name: Youtube
-    icon: <i class="fa-brands fa-youtube"></i>
-    link: https://www.youtube.com/@cutebrainpants/
-  - name: Etsy
-    icon: <i class="fa-brands fa-etsy"></i>
-    link: https://www.etsy.com/shop/MoonwispShop/
+  <a href="https://www.linkedin.com/in/elizabeth-tran-309a0045/" title="Linkedin"><i class="fab fa-linkedin"></i></a>
+  <a href="https://https://github.com/elizabellatran/" title="GitHub"><i class="fab fa-github"></i></a>
+  <a href="https://cutebrainpants.itch.io/" title="itch.io"><i class="fa-brands fa-itch-io"></i></a>
+  <a href="https://www.youtube.com/@cutebrainpants/" title="YouTube"><i class="fab fa-youtube"></i></a>
+  <a href="https://www.etsy.com/shop/MoonwispShop/" title="Etsy"><i class="fa-brands fa-etsy"></i></a>
