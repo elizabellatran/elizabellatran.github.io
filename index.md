@@ -1,14 +1,22 @@
 ---
 layout: default
 ---
-Note: Page is still under construction  <br>
+<b>Note:</b> Page is still under construction  <br>
+<br>
 
 # About 
-Hi, I’m Elizabeth, a Bay Area dweller with a love for all things cute. By day, I'm a Data Scientist. By night, I'm an indie game developer, part of <a href="https://pixelboltgames.wixsite.com/pixelbolt-games">PixelBolt </a>, and a hobby artist, exploring my creative side after hours. 🎨🎮
+Hi, I’m Elizabeth, a Bay Area dweller with a love for all things cute. By day, I'm a Data Scientist. By night, I'm an indie game developer - part of <a href="https://pixelboltgames.wixsite.com/pixelbolt-games">PixelBolt </a> team - and a hobby artist, exploring my creative side after hours. 🎨🎮
 
 
 
 # Accomplishments
+
+
+For these two projects, I was an editor. 
+
+
+For this project, I was a sprite programmer and one of the editors. 
+
 
 If you want to see some of my academic publications, click here to go to my <a href="https://scholar.google.com/citations?user=ytjqu-EAAAAJ&hl=en"> GoogleScholar</a>.
 
