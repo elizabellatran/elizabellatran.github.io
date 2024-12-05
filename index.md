@@ -10,8 +10,7 @@ Hi, I’m Elizabeth, a Bay Area dweller with a love for all things cute. By day,
 
 # Current Projects
 
-Demo coming soon - Project Makina -- I'm multifunctional for this game - writer, editor, and sprite artist
-
+Demo coming early 2025 - Project Makina -- I'm multifunctional for this game - writer, editor, and sprite artist
 
 
 # Accomplishments
