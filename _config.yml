@@ -27,8 +27,15 @@ paginate_path:    "/blog/page:num/"
 # Custom vars
 # version:          2.1.0
 
-github:           
-  repo:           https://github.com/elizabellatran/elizabellatran.github.io
+
+<nav id="nav">
+					<ul>
+						<li><a href="#one" class="active">About</a></li>
+						<li><a href="#two"> Accomplishments</a></li>
+						<li><a href="#three">Commissions</a></li>
+						<li><a href="#four">Artwork</a></li>
+					</ul>
+</nav>
 
 plugins: 
   - jekyll-paginate
