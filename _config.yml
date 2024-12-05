@@ -20,7 +20,7 @@ url:              https://elizabellatran.github.io/
 baseurl:          ''
 
 author:
-  name:           'Yang Xiaozhou'
+  name:           'Elizabeth'
 
 paginate:         10
 paginate_path:    "/blog/page:num/"
