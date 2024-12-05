@@ -32,6 +32,7 @@ For Under the False Sky [heca; tomb], I was an editor. Download and play the <a 
       <p>For Under the False Sky [ Impluse ], I was an editor. Play the game on your browser or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a></p>
     </div>
  </div>
+ {:style="clear: left"}
 										</article> 
                     
 <!--                 {% include module.html image_path="/assets/galllery/impluse.png" title="Under the False Sky [ Impluse ]" description="For Under the False Sky [ Impluse ], I was an editor. Play the game on your browser or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>." %}
