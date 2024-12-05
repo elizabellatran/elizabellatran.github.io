@@ -1,4 +1,3 @@
-
 markdown: kramdown
 kramdown: 
   input: GFM
@@ -15,7 +14,7 @@ highlighter:      rouge
 # Setup
 title:            "Elizabeth Tran"
 tagline:          ''
-description:      'By day, I'm a Data Scientist. By night, I'm an indie game developer and hobby artist, exploring my creative side after hours. 🎨🎮'
+description:      By day, I'm a Data Scientist. By night, I'm an indie game developer and hobby artist, exploring my creative side after hours. 🎨🎮
 url:              https://elizabellatran.github.io/
 baseurl:          ''
 
