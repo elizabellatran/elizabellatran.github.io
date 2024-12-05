@@ -30,3 +30,4 @@ plugins:
   - jekyll-paginate
   - jekyll-archives
   - jekyll-commonmark-ghpages
+  - jekyll-feed

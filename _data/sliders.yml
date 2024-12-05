@@ -1,7 +1,6 @@
 # example slider
 # source: https://github.com/jekylltools/jekyll-ideal-image-slider-include?tab=readme-ov-file 
 - selector: artslider 
-  captions: false
   images:
     - src: /assets/gallery/DHIL.png
       title: Dan Heng IL
