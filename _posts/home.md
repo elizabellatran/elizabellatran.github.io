@@ -1,7 +1,5 @@
 ---
-layout: page
-title: About
-order: 1
+layout: default
 ---
 Note: Page is still under construction  <br>
 
