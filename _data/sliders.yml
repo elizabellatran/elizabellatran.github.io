@@ -1,0 +1,18 @@
+# example slider
+# source: https://github.com/jekylltools/jekyll-ideal-image-slider-include?tab=readme-ov-file 
+- selector: galleryslider 
+  captions: true
+  images:
+    - src: /assets/gallery/DHIL.png
+      alt: image one
+    - src: /assets/gallery/jingliu.png
+      alt: image two
+    - src: assets/gallery/Blade1.png
+      alt: image three
+    - src: assets/gallery/Blade2.png
+      alt: image three
+    - src: assets/gallery/SR.png
+      alt: image three
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
