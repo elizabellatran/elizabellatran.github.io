@@ -18,7 +18,7 @@ If you want to see some of my academic publications, click here to go to my <a h
 
 # Connect with me 
   <a href="https://www.linkedin.com/in/elizabeth-tran-309a0045/"><i class="fab fa-linkedin"></i></a>
-  <a href="https://https://github.com/elizabellatran/" title="GitHub"><i class="fab fa-github"></i><span class="label">Github</span></a>
+  <a href="https://github.com/elizabellatran/" title="GitHub"><i class="fab fa-github"></i><span class="label">Github</span></a>
   <a href="https://cutebrainpants.itch.io/" title="itch.io"><i class="fa-brands fa-itch-io"></i></a>
   <a href="https://www.youtube.com/@cutebrainpants/" title="YouTube"><i class="fab fa-youtube"></i></a>
   <a href="https://www.etsy.com/shop/MoonwispShop/" title="Etsy"><i class="fa-brands fa-etsy"></i></a>
