@@ -22,16 +22,16 @@ For Under the False Sky [heca; tomb], I was an editor. Download and play the <a 
 
 <p>
 <div>
- <img src="/assets/gallery/impluse.png"> 
+
+
+<IMG SRC="/assets/gallery/impluse.png" ALIGN=”top” />
 For Under the False Sky [ Impluse ], I was an editor. Play the game on your browser or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>
 
 </div>
 </p>
 <!--    
 <article>
-
 ![image]("/assets/gallery/impluse.png){: style="float: left"}
-
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
     <img src='{{"/assets/gallery/impluse.png" }}'>
@@ -43,17 +43,14 @@ For Under the False Sky [ Impluse ], I was an editor. Play the game on your brow
  </div>
  {:style="clear: left"}
 										</article> 
-                    
              {% include module.html image_path="/assets/galllery/impluse.png" title="Under the False Sky [ Impluse ]" description="For Under the False Sky [ Impluse ], I was an editor. Play the game on your browser or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>." %}
-                    
                     ![](/assets/gallery/impluse.png){: .align-left}<h2> Under the False Sky [ Impluse ]
 For Under the False Sky [ Impluse ], I was an editor. Play the game on your browser or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>
 {:style="clear: left"}
-
 ![](/assets/gallery/impluse.png){: .align-left}
 Something about the second picture.
 {:style="clear: left"}
-                    <-->
+-->
 
 
 
