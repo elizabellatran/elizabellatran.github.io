@@ -25,7 +25,7 @@ For Under the False Sky [heca; tomb], I was an editor. Download and play the <a 
  <-->
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="/assets/galllery/impluse.png" alt="">
+    <img src='{{"/assets/galllery/impluse.png" }}'>
   </div>
   <div>
       <h4>Under the False Sky [ Impluse ]</h4>
