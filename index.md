@@ -19,6 +19,13 @@ Demo coming early 2025 - <a href= "https://pixelboltgames.wixsite.com/pixelbolt-
 
 For Under the False Sky [heca; tomb], I was an editor. Download and play the <a href="https://elduator.itch.io/hecatomb"> game</a> 
 
+
+<p>
+ <img src="/assets/gallery/impluse.png"> 
+For Under the False Sky [ Impluse ], I was an editor. Play the game on your browser or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>
+
+</p>
+<!--    
 <article>
 
 ![image]("/assets/gallery/impluse.png){: style="float: left"}
@@ -35,7 +42,7 @@ For Under the False Sky [heca; tomb], I was an editor. Download and play the <a 
  {:style="clear: left"}
 										</article> 
                     
-<!--                 {% include module.html image_path="/assets/galllery/impluse.png" title="Under the False Sky [ Impluse ]" description="For Under the False Sky [ Impluse ], I was an editor. Play the game on your browser or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>." %}
+             {% include module.html image_path="/assets/galllery/impluse.png" title="Under the False Sky [ Impluse ]" description="For Under the False Sky [ Impluse ], I was an editor. Play the game on your browser or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>." %}
                     
                     ![](/assets/gallery/impluse.png){: .align-left}<h2> Under the False Sky [ Impluse ]
 For Under the False Sky [ Impluse ], I was an editor. Play the game on your browser or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>
