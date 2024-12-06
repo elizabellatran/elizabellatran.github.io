@@ -17,10 +17,11 @@ Demo coming early 2025
 ## Accomplishments
 <div>
   <div class="image-text-container">
+    <div class="image-container">
     <img src="assets/gallery/hecatomb.png" alt="My Image" class="left-image">
+    </div>
     <div class="text-container">
-      <p>
-        Under the False Sky [heca; tomb], a prequel to the Under The False Sky Series, chronicles the journey of scientists who, while investigating mysterious disasters, stumble upon a secluded tribe's secret. Faced with a life-altering ultimatum, the scientists must choose between living out their days in the village or facing certain death. <br>
+      <p>Under the False Sky [heca; tomb], a prequel to the Under The False Sky Series, chronicles the journey of scientists who, while investigating mysterious disasters, stumble upon a secluded tribe's secret. Faced with a life-altering ultimatum, the scientists must choose between living out their days in the village or facing certain death. <br>
         <br>
         For Under the False Sky [heca; tomb], I was an editor. Download and play the <a href="https://elduator.itch.io/hecatomb"> game </a>. Currently, the demo is out and the full release is coming soon!
       </p>
@@ -29,7 +30,9 @@ Demo coming early 2025
   <hr>
 
   <div class="image-text-container">
+    <div class="image-container">
     <img src="assets/gallery/impluse.png" alt="My Image" class="right-image">
+    </div>
     <div class="text-container">
       <p>
         Under The False Sky [IM]Pulse is a short story that delves into the evolving relationship between Tamara and Felix, set after the events of UNDER THE FALSE SKY | [Re]:Idealize. Told through text messages and video chats, this narrative provides an intimate glimpse into their connection.<br>
@@ -41,7 +44,9 @@ Demo coming early 2025
   <hr>
 
   <div class="image-text-container">
+    <div class="image-container">
     <img src="assets/gallery/chromatic.png" alt="My Image" class="left-image">
+    </div>
     <div class="text-container">
       <p>
         Sev, a medical graduate, finds themselves transported into the world of their childhood painting. Confronted by villainous pixies and revered by colorful heroes, Sev embarks on a quest to uncover the true intentions of their creations. <br>
@@ -51,14 +56,12 @@ Demo coming early 2025
     </div>
   </div>
   <hr>
-</div>
 
 <p>
 <p>
   If you want to see some of my academic publications, click here to go to my <a href="https://scholar.google.com/citations?user=ytjqu-EAAAAJ&hl=en"> GoogleScholar</a>.
   <br>
 <p> 
-</div>
 
 ## Art 
 {% include slider.html selector="slider1" %}
