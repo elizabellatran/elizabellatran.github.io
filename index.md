@@ -15,37 +15,47 @@ Demo coming early 2025
 <a href= "https://pixelboltgames.wixsite.com/pixelbolt-games"> Project Makina</a> -- I'm multifunctional for this game - writer, editor, and sprite artist ! 
 
 ## Accomplishments
+
+## Accomplishments
 <div>
-<div class="image-text-container" style="display: flex; flex-direction: row;"> <p>
-<img align="left" src="assets/gallery/hecatomb.png" alt="My Image" width="300" height="200" style="margin-right: 20px;">  
-Under the False Sky [heca; tomb], a prequel to the Under The False Sky Series, chronicles the journey of scientists who, while investigating mysterious disasters, stumble upon a secluded tribe's secret. Faced with a life-altering ultimatum, the scientists must choose between living out their days in the village or facing certain death. <br>
-<br>
-For Under the False Sky [heca; tomb], I was an editor. Download and play the <a href="https://elduator.itch.io/hecatomb"> game </a>. Currently, the demo is out and the full release is coming soon!  
-</div>
-<hr>
+  <div class="image-text-container">
+    <img src="assets/gallery/hecatomb.png" alt="My Image" class="left-image">
+    <p>
+      Under the False Sky [heca; tomb], a prequel to the Under The False Sky Series, chronicles the journey of scientists who, while investigating mysterious disasters, stumble upon a secluded tribe's secret. Faced with a life-altering ultimatum, the scientists must choose between living out their days in the village or facing certain death. <br>
+      <br>
+      For Under the False Sky [heca; tomb], I was an editor. Download and play the <a href="https://elduator.itch.io/hecatomb"> game </a>. Currently, the demo is out and the full release is coming soon!
+    </p>
+  </div>
+  <hr>
 
-<div class="image-text-container" style="display: flex; flex-direction: row;">
-<img align="right" src="assets/gallery/impluse.png" alt="My Image" width="300" height="200" style="margin-right: 20px;"> 
-Under The False Sky [IM]Pulse is a short story that delves into the evolving relationship between Tamara and Felix, set after the events of UNDER THE FALSE SKY | [Re]:Idealize. Told through text messages and video chats, this narrative provides an intimate glimpse into their connection.<br>
-<br>
-I was an editor for this project. Play the game on your browser on itch.io or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>!
+  <div class="image-text-container">
+    <img src="assets/gallery/impluse.png" alt="My Image" class="right-image">
+    <p>
+      Under The False Sky [IM]Pulse is a short story that delves into the evolving relationship between Tamara and Felix, set after the events of UNDER THE FALSE SKY | [Re]:Idealize. Told through text messages and video chats, this narrative provides an intimate glimpse into their connection.<br>
+      <br>
+      I was an editor for this project. Play the game on your browser on itch.io or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>!
+    </p>
+  </div>
+  <hr>
+
+  <div class="image-text-container">
+    <img src="assets/gallery/chromatic.png" alt="My Image" class="left-image">
+    <p>
+      Sev, a medical graduate, finds themselves transported into the world of their childhood painting. Confronted by villainous pixies and revered by colorful heroes, Sev embarks on a quest to uncover the true intentions of their creations. <br>
+      <br>
+      For <a href="https://deniz-g-lerosi.itch.io/chromatic-agape"> Chromatic Agape</a>, I was a assets programmer and one of the editors for the NaNoRen2024 and OtomeJam2024 release.
+    </p>
+  </div>
+  <hr>
 </div>
 
-<hr>
-<div class="image-text-container" style="display: flex; flex-direction: row;">
-<img align="left" src="assets/gallery/chromatic.png" width="300" height="200" style="margin-right: 20px;">
-Sev, a medical graduate, finds themselves transported into the world of their childhood painting. Confronted by villainous pixies and revered by colorful heroes, Sev embarks on a quest to uncover the true intentions of their creations. <br>
-<br>
-For <a href="https://deniz-g-lerosi.itch.io/chromatic-agape"> Chromatic Agape</a>, I was a assets programmer and one of the editors for the NaNoRen2024 and OtomeJam2024 release. 
-</p>
-</div>
-<hr>
 <p>
 <p>
-If you want to see some of my academic publications, click here to go to my <a href="https://scholar.google.com/citations?user=ytjqu-EAAAAJ&hl=en"> GoogleScholar</a>.
-<br>
-<p> 
+  If you want to see some of my academic publications, click here to go to my <a href="https://scholar.google.com/citations?user=ytjqu-EAAAAJ&hl=en"> GoogleScholar</a>.
+  <br>
+<p> 
 </div>
+
 ## Art 
 {% include slider.html selector="slider1" %}
 
