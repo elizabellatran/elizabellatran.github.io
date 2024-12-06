@@ -39,11 +39,11 @@ For <a href="https://deniz-g-lerosi.itch.io/chromatic-agape"> Chromatic Agape</a
 </p>
 </div>
 <hr>
-
-
+<p>
+<p>
 If you want to see some of my academic publications, click here to go to my <a href="https://scholar.google.com/citations?user=ytjqu-EAAAAJ&hl=en"> GoogleScholar</a>.
-
- 
+<br>
+<p> 
 # Art 
 {% include slider.html selector="slider1" %}
 
