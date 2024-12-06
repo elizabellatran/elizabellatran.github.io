@@ -49,6 +49,7 @@ Demo coming early 2025
 <p> 
 
 ## Art 
+
 {% include slider.html selector="slider1" %}
 
 Check out my <a href ="https://www.etsy.com/shop/MoonwispShop">Etsy shop</a> and my <a href ="https://www.instagram.com/moonwispshop">Moonwisp</a> Instagram ! 
