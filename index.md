@@ -15,6 +15,7 @@ Demo coming early 2025
 <a href= "https://pixelboltgames.wixsite.com/pixelbolt-games"> Project Makina</a> -- I'm multifunctional for this game - writer, editor, and sprite artist ! 
 
 ## Accomplishments
+<div>
 <div class="image-text-container" style="display: flex; flex-direction: row;"> <p>
 <img align="left" src="assets/gallery/hecatomb.png" alt="My Image" width="300" height="200" style="margin-right: 20px;">  
 Under the False Sky [heca; tomb], a prequel to the Under The False Sky Series, chronicles the journey of scientists who, while investigating mysterious disasters, stumble upon a secluded tribe's secret. Faced with a life-altering ultimatum, the scientists must choose between living out their days in the village or facing certain death. <br>
@@ -44,7 +45,7 @@ For <a href="https://deniz-g-lerosi.itch.io/chromatic-agape"> Chromatic Agape</a
 If you want to see some of my academic publications, click here to go to my <a href="https://scholar.google.com/citations?user=ytjqu-EAAAAJ&hl=en"> GoogleScholar</a>.
 <br>
 <p> 
-  
+</div>
 ## Art 
 {% include slider.html selector="slider1" %}
 
