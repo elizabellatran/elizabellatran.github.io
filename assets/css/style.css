@@ -1,29 +1,21 @@
 .image-text-container {
   display: flex;
-  flex-direction: row;
-  margin-bottom: 20px;
+  flex-direction: column; /* Arrange image-text pairs vertically */
 }
-
-.image-container {
-  flex: 0 0 300px; /* Fixed width for the image container */
-  margin-right: 20px;
-}
-
-.image-container img {
-  width: 100%;
-  height: auto;
-  object-fit: cover;
-}
-
-.text-container {
-  flex: 1;
-}
-
 
 .image-text-pair {
   display: flex;
   flex-direction: row;
   margin-bottom: 20px; /* Adjust margin as needed */
+}
+
+.image-text-pair img {
+  flex: 0 0 300px; /* Adjust width as needed */
+  margin-right: 20px;
+}
+
+.image-text-pair p {
+  flex: 1;
 }
 
 .avatar {
