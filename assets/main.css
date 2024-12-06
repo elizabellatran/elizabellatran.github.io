@@ -1,0 +1,23 @@
+.image-text-container {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+}
+
+.left-image, .right-image {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.left-image {
+  margin-right: 20px;
+}
+
+.right-image {
+  margin-left: 20px;
+}
+
+.text-container {
+  flex: 1;
+}
