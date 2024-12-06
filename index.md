@@ -15,23 +15,26 @@ Demo coming early 2025
 <a href= "https://pixelboltgames.wixsite.com/pixelbolt-games"> Project Makina</a> -- I'm multifunctional for this game - writer, editor, and sprite artist ! 
 
 # Accomplishments
-<div>
+<div class="image-text-container">
 <p>
 <img align="left" src="assets/gallery/hecatomb.png" alt="My Image">  For Under the False Sky [heca; tomb], I was an editor. Download and play the <a href="https://elduator.itch.io/hecatomb"> game</a> 
 </p>
-<br><hr> <br></div>
+<br> <br></div>
+<hr>
 
-<div>
+<div class="image-text-container">
 <p>
 <img align="left" src="assets/gallery/impluse.png" alt="My Image"> For Under the False Sky [ Impluse ], I was an editor. Play the game on your browser or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>
 </p>
-<br>  <hr> <br></div>
-<br><div>
+<br> <br></div>
+<hr>
+
   
 <p> <img align="left" src="assets/gallery/chromatic.png"> For <a href="https://deniz-g-lerosi.itch.io/chromatic-agape"> Chromatic Agape</a>, I was a sprite programmer and one of the editors for the NaNoRen2024 and OtomeJam2024 release. 
 </p>
-<br><br>  <hr> <br></div>
-<br> 
+<br> <br></div>
+<hr>
+
 
 If you want to see some of my academic publications, click here to go to my <a href="https://scholar.google.com/citations?user=ytjqu-EAAAAJ&hl=en"> GoogleScholar</a>.
 
