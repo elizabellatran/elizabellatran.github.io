@@ -33,7 +33,7 @@ Demo coming early 2025
     </div>
   <hr>
   <div class="image-text-pair">
-  <img src="assets/gallery/chromatic.png" alt="My Image" class="left-image">
+  <img src="assets/gallery/chromatic2.png" alt="My Image" class="left-image">
   <p>Sev, a medical graduate, finds themselves transported into the world of their childhood painting. Confronted by villainous pixies and revered by colorful heroes, Sev embarks on a quest to uncover the true intentions of their creations. <br>
         <br>
         For <a href="https://deniz-g-lerosi.itch.io/chromatic-agape"> Chromatic Agape</a>, I was a assets programmer and one of the editors for the NaNoRen2024 and OtomeJam2024 release.
