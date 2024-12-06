@@ -15,7 +15,7 @@ Demo coming early 2025
 <a href= "https://pixelboltgames.wixsite.com/pixelbolt-games"> Project Makina</a> -- I'm multifunctional for this game - writer, editor, and sprite artist ! 
 
 # Accomplishments
-For Under the False Sky [heca; tomb], I was an editor. Download and play the <a href="https://elduator.itch.io/hecatomb"> game</a> 
+<img align="left" src="assets/gallery/impluse.png" alt="My Image"> For Under the False Sky [heca; tomb], I was an editor. Download and play the <a href="https://elduator.itch.io/hecatomb"> game</a> 
 
 For Under the False Sky [ Impluse ], I was an editor. Play the game on your browser or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>
 
