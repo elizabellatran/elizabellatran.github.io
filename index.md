@@ -24,7 +24,7 @@ For Under the False Sky [heca; tomb], I was an editor. Download and play the <a 
 <hr>
 
 <div class="image-text-container" style="display: flex; flex-direction: row;">
-<img align="right" src="assets/gallery/impluse.png" alt="My Image" width="200" height="175"> 
+<img align="right" src="assets/gallery/impluse.png" alt="My Image" width="200" height="150"> 
 Under The False Sky [IM]Pulse is a short story that delves into the evolving relationship between Tamara and Felix, set after the events of UNDER THE FALSE SKY | [Re]:Idealize. Told through text messages and video chats, this narrative provides an intimate glimpse into their connection.<br>
 <br>
 I was an editor for this project. Play the game on your browser on itch.io or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>!
@@ -32,7 +32,7 @@ I was an editor for this project. Play the game on your browser on itch.io or do
 
 <hr>
 <div class="image-text-container" style="display: flex; flex-direction: row;">
-<img align="left" src="assets/gallery/chromatic.png"  width="200" height="175">
+<img align="left" src="assets/gallery/chromatic.png" width="200" height="150">
 Sev, a medical graduate, finds themselves transported into the world of their childhood painting. Confronted by villainous pixies and revered by colorful heroes, Sev embarks on a quest to uncover the true intentions of their creations. <br>
 <br>
 For <a href="https://deniz-g-lerosi.itch.io/chromatic-agape"> Chromatic Agape</a>, I was a assets programmer and one of the editors for the NaNoRen2024 and OtomeJam2024 release. 
