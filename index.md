@@ -6,15 +6,15 @@ image_sliders:
 <b>Note:</b> Page is still under construction  <br>
 <br>
 
-# About 
+## About 
 Hi, I’m Elizabeth, a Bay Area dweller with a love for all things cute. By day, I'm a Data Scientist. By night, I'm an indie game developer - part of <a href="https://pixelboltgames.wixsite.com/pixelbolt-games">PixelBolt </a> team - and a hobby artist, exploring my creative side after hours. 🎨🎮
 
-# Current Projects
+## Current Projects
 
 Demo coming early 2025 
 <a href= "https://pixelboltgames.wixsite.com/pixelbolt-games"> Project Makina</a> -- I'm multifunctional for this game - writer, editor, and sprite artist ! 
 
-# Accomplishments
+## Accomplishments
 <div class="image-text-container" style="display: flex; flex-direction: row;"> <p>
 <img align="left" src="assets/gallery/hecatomb.png" alt="My Image" width="300" height="200" style="margin-right: 20px;">  
 Under the False Sky [heca; tomb], a prequel to the Under The False Sky Series, chronicles the journey of scientists who, while investigating mysterious disasters, stumble upon a secluded tribe's secret. Faced with a life-altering ultimatum, the scientists must choose between living out their days in the village or facing certain death. <br>
@@ -44,7 +44,8 @@ For <a href="https://deniz-g-lerosi.itch.io/chromatic-agape"> Chromatic Agape</a
 If you want to see some of my academic publications, click here to go to my <a href="https://scholar.google.com/citations?user=ytjqu-EAAAAJ&hl=en"> GoogleScholar</a>.
 <br>
 <p> 
-# Art 
+  
+## Art 
 {% include slider.html selector="slider1" %}
 
 Check out my <a href ="https://www.etsy.com/shop/MoonwispShop">Etsy shop</a> and my <a href ="https://www.instagram.com/moonwispshop">Moonwisp</a> Instagram ! 
