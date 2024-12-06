@@ -16,7 +16,10 @@ Demo coming early 2025
 
 # Accomplishments
 <div class="image-text-container" style="display: flex; flex-direction: row;"> <p>
-<img align="left" src="assets/gallery/hecatomb.png" alt="My Image" width="200" height="150">  For Under the False Sky [heca; tomb], I was an editor. Download and play the <a href="https://elduator.itch.io/hecatomb"> game</a> 
+<img align="left" src="assets/gallery/hecatomb.png" alt="My Image" width="200" height="150">  
+Under the False Sky [heca; tomb] chronicles the journey of scientists who, while investigating mysterious disasters, stumble upon a secluded tribe's secret. Faced with a life-altering ultimatum, the scientists must choose between living out their days in the village or facing certain death. 
+  
+For Under the False Sky [heca; tomb], I was an editor. Download and play the <a href="https://elduator.itch.io/hecatomb"> game</a> 
 </p><br> <br></div>
 <hr>
 
