@@ -20,7 +20,10 @@ Demo coming early 2025
 
 ## Accomplishments
 <img src="assets/gallery/hecatomb.png" alt="My Image" align="left"> Under the False Sky [heca; tomb], a prequel to the Under The False Sky Series, chronicles the journey of scientists who, while investigating mysterious disasters, stumble upon a secluded tribe's secret. Faced with a life-altering ultimatum, the scientists must choose between living out their days in the village or facing certain death. <br>
-For Under the False Sky [heca; tomb], I was an editor. Download and play the <a href="https://elduator.itch.io/hecatomb"> game </a>. Currently, the demo is out and the full release is coming soon!
+
+For Under the False Sky [heca; tomb], I was an editor. Download and play the <a href="https://elduator.itch.io/hecatomb"> game </a>. 
+
+Currently, the demo is out and the full release is coming soon!
 <br>
 <hr>
 <br>
