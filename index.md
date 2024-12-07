@@ -20,7 +20,7 @@ Demo coming early 2025
 
 ## Accomplishments
 <img src="assets/gallery/hecatomb.png" alt="My Image" align="left"> Under the False Sky [heca; tomb], a prequel to the Under The False Sky Series, chronicles the journey of scientists who, while investigating mysterious disasters, stumble upon a secluded tribe's secret. Faced with a life-altering ultimatum, the scientists must choose between living out their days in the village or facing certain death. <br>
-
+<br>
 For Under the False Sky [heca; tomb], I was an editor. Download and play the <a href="https://elduator.itch.io/hecatomb"> game </a>. 
 
 Currently, the demo is out and the full release is coming soon!
@@ -28,42 +28,23 @@ Currently, the demo is out and the full release is coming soon!
 <hr>
 <br>
 <img src="assets/gallery/impluse.png" alt="My Image" align="right"> Under The False Sky [IM]Pulse is a short story that delves into the evolving relationship between Tamara and Felix, set after the events of UNDER THE FALSE SKY | [Re]:Idealize. Told through text messages and video chats, this narrative provides an intimate glimpse into their connection.<br>
-        <br>
-        I was an editor for this project. Play the game on your browser on itch.io or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>!
+<br>
+I was an editor for this project. Play the game on your browser on itch.io or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>!
+<br>
+<hr>
+<br>
+<img src="assets/gallery/chromatic2.png" alt="My Image"  align="left"> Sev, a medical graduate, finds themselves transported into the world of their childhood painting. Confronted by villainous pixies and revered by colorful heroes, Sev embarks on a quest to uncover the true intentions of their creations. <br>
+<br>
+For <a href="https://deniz-g-lerosi.itch.io/chromatic-agape"> Chromatic Agape</a>, I was a assets programmer and one of the editors for the NaNoRen2024 and OtomeJam2024 release
+<br>
+<hr>
+<br>
+<hr>
 
-<div class="image-text-container">
-  <div class="image-text-pair">
-    <img src="assets/gallery/hecatomb.png" alt="My Image" class="left-image">
-    <p>Under the False Sky [heca; tomb], a prequel to the Under The False Sky Series, chronicles the journey of scientists who, while investigating mysterious disasters, stumble upon a secluded tribe's secret. Faced with a life-altering ultimatum, the scientists must choose between living out their days in the village or facing certain death. <br>
-    <br>
-    For Under the False Sky [heca; tomb], I was an editor. Download and play the <a href="https://elduator.itch.io/hecatomb"> game </a>. Currently, the demo is out and the full release is coming soon!
-    </p>
-  </div>
-  <hr>
-  <div class="image-text-pair">
-    <img src="assets/gallery/impluse.png" alt="My Image" class="right-image">
-      <p>Under The False Sky [IM]Pulse is a short story that delves into the evolving relationship between Tamara and Felix, set after the events of UNDER THE FALSE SKY | [Re]:Idealize. Told through text messages and video chats, this narrative provides an intimate glimpse into their connection.<br>
-        <br>
-        I was an editor for this project. Play the game on your browser on itch.io or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>!
-      </p>
-    </div>
-  <hr>
-  <div class="image-text-pair">
-  <img src="assets/gallery/chromatic2.png" alt="My Image" class="left-image">
-  <p>Sev, a medical graduate, finds themselves transported into the world of their childhood painting. Confronted by villainous pixies and revered by colorful heroes, Sev embarks on a quest to uncover the true intentions of their creations. <br>
-        <br>
-        For <a href="https://deniz-g-lerosi.itch.io/chromatic-agape"> Chromatic Agape</a>, I was a assets programmer and one of the editors for the NaNoRen2024 and OtomeJam2024 release.
-      </p>
-    </div>
-  </div>
-  <hr>
-
-<p>
-<p>
-  If you want to see some of my academic publications, click here to go to my <a href="https://scholar.google.com/citations?user=ytjqu-EAAAAJ&hl=en"> GoogleScholar</a>.
-  <br>
-<p> 
-
+If you want to see some of my academic publications, click here to go to my <a href="https://scholar.google.com/citations?user=ytjqu-EAAAAJ&hl=en"> GoogleScholar</a>.<br> 
+<hr>
+<br>
+<br>
 
 ## Art 
 
