@@ -19,7 +19,14 @@ Demo coming early 2025
 <hr>
 
 ## Accomplishments
-<img src="assets/gallery/hecatomb.png" alt="My Image" align="left"> Under the False Sky [heca; tomb], a prequel to the Under The False Sky Series, chronicles the journey of scientists who, while investigating mysterious disasters, stumble upon a secluded tribe's secret. Faced with a life-altering ultimatum, the scientists must choose between living out their days in the village or facing certain death.
+<img src="assets/gallery/hecatomb.png" alt="My Image" align="left"> Under the False Sky [heca; tomb], a prequel to the Under The False Sky Series, chronicles the journey of scientists who, while investigating mysterious disasters, stumble upon a secluded tribe's secret. Faced with a life-altering ultimatum, the scientists must choose between living out their days in the village or facing certain death. <br>
+For Under the False Sky [heca; tomb], I was an editor. Download and play the <a href="https://elduator.itch.io/hecatomb"> game </a>. Currently, the demo is out and the full release is coming soon!
+<br>
+<hr>
+<br>
+<img src="assets/gallery/impluse.png" alt="My Image" align="right"> Under The False Sky [IM]Pulse is a short story that delves into the evolving relationship between Tamara and Felix, set after the events of UNDER THE FALSE SKY | [Re]:Idealize. Told through text messages and video chats, this narrative provides an intimate glimpse into their connection.<br>
+        <br>
+        I was an editor for this project. Play the game on your browser on itch.io or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>!
 
 <div class="image-text-container">
   <div class="image-text-pair">
