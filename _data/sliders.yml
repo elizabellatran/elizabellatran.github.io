@@ -6,19 +6,19 @@
   images:
     - src: /assets/gallery/DHIL.png
       title: Dan Heng IL
-      alt: image one
+      alt: 
     - src: /assets/gallery/jingliu.png
       title: Jing Liu 
-      alt: image two
+      alt: 
     - src: assets/gallery/Blade1.png
       title: Bladie 
-      alt: image three
+      alt: 
     - src: assets/gallery/Blade2.png
       title: Bladie 
-      alt: image three
+      alt: 
     - src: assets/gallery/SR.png
       title: Sunday & Robin  
-      alt: image three
+      alt: 
   settings:
     height: "'auto'"
     effect: "'fade'"
