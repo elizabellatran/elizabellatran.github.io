@@ -1,16 +1,3 @@
-markdown: kramdown
-kramdown: 
-  input: GFM
-  toc_levels: 1..2
-  # parse_block_html: true
-
-# markdown: CommonMarkGhPages
-
-highlighter:      rouge
-
-# Permalinks
-# permalink:        pretty
-
 # Setup
 title:            "Elizabeth Tran"
 logo:             gallery/profilepiccircle.png
@@ -22,10 +9,19 @@ baseurl:          ''
 author:
   name:           'Elizabeth'
 
+markdown: kramdown
+kramdown: 
+  input: GFM
+  toc_levels: 1..2
+  # parse_block_html: true
+
+# markdown: CommonMarkGhPages
+highlighter:      rouge
+# Permalinks
+# permalink:        pretty
 
 # Custom vars
 # version:          2.1.0
-
 plugins: 
   - jekyll-paginate
   - jekyll-archives
