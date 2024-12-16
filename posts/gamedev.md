@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Game Development
+sidebar: false
 ---
 
 <h2>Under the False Sky [heca; tomb]</h2>
