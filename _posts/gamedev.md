@@ -1,6 +1,7 @@
 ---
-layout: post
-title: Game Projects 
+layout: page
+title: "Game Development Projects"
+permalink: /elizabellagamedev
 ---
 
 ....
