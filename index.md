@@ -34,7 +34,7 @@ Currently, the demo is out and the full release is coming soon!
 I was an editor for this project. Play the game on your browser on itch.io or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>!
 <br> 
 <hr>
-Click [here]({% link gameprojectstest.md %}) for all of my game project. 
+Click [here]({% link gameprojectspg.md %}) for all of my game project. 
 
 <hr>
 <h2>Academic Research Publications </h2>
