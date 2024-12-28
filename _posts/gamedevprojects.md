@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Game Development Projects"
-permalink: /elizabellagamedev
 ---
 
 ....
