@@ -41,7 +41,7 @@ I was an editor for this project. Play the game on your browser on itch.io or do
 <br>
 For <a href="https://deniz-g-lerosi.itch.io/chromatic-agape"> Chromatic Agape</a>, I was a assets programmer and one of the editors for the NaNoRen2024 and OtomeJam2024 release
 <br>
-Click <a href="/2024/12/27/gamedev.md/"> here</a> for more game projects 
+Click [here](/elizabellagamedev) for more game projects 
 
 <hr>
 <h2>Academic Research Publications </h2>
