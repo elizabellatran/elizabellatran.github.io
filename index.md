@@ -12,7 +12,7 @@ Hi, I’m Elizabeth, a Bay Area dweller with a love for all things cute. By day,
 <hr>
 
 ## Current Projects
-<h2><a href= "https://pixelboltgames.wixsite.com/pixelbolt-games">Project Makina</a></h2>
+<h2><a href= "https://pixelboltgames.wixsite.com/pixelbolt-games/projects">Project Makina</a></h2>
 Demo coming early 2025 ~ <br>
 I'm multifunctional for this game - co-writer, editor, and sprite artist ! 
 
