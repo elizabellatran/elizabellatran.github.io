@@ -2,15 +2,19 @@
 layout: default 
 title: "Game Development Projects"
 ---
-
-
+<h1>2025 </h1>
+<h2> Under the False Sky | Kein:[Über]Leben  </h2>
+Taking place eight years after Under the False Sky [RE]:Idealize, Under the False Sky | Kein:[Über]Leben tells the story of the rebellion colony struggling for surivial as winter approaches. This story highlights  internal struggles, personal sacrifices, and the intricate dynamics of family relationships.
+<br>
+For Under the False Sky | Kein:[Über]Leben, I was one of the editors. This game took part of <a href="https://itch.io/jam/winter-vn-jam-2024"> Winter VN Jam 2024</a> & <a href=" https://itch.io/jam/dying-year-vn-jam"> Dying Year VN Jam 2024</a>. Download and play the <a href="https://elduator.itch.io/utfs-keinueberleben"> game </a> here! 
+ <br>
+<hr>
+<br>
 <h1>2024 </h1>
 <h2>Under the False Sky [heca; tomb]</h2>
 <img src="/assets/gallery/hecatomb.png" alt="My Image" align="left"> Under the False Sky [heca; tomb], a prequel to the Under The False Sky Series, chronicles the journey of scientists who, while investigating mysterious disasters, stumble upon a secluded tribe's secret. Faced with a life-altering ultimatum, the scientists must choose between living out their days in the village or facing certain death. <br>
 <br>
-For Under the False Sky [heca; tomb], I was an editor. Download and play the <a href="https://elduator.itch.io/hecatomb"> game </a>. 
-
-Currently, the demo is out and the full release is coming soon!
+For Under the False Sky [heca; tomb], I was an editor. Download and play the <a href="https://elduator.itch.io/hecatomb"> game </a>. Currently, the demo is out and the full release is coming soon!
 <br>
 <hr>
 <br>
