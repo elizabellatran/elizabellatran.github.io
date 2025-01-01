@@ -16,7 +16,7 @@ I'm multifunctional for this game - co-writer, editor, and sprite artist !
 
 ## Accomplishments
 <br>
-<h1> Indie Games </h1>
+<h2> Indie Games </h2>
 <br>
 <h2> Under the False Sky | Kein:[Über]Leben  </h2>
 Taking place eight years after Under the False Sky [RE]:Idealize, Under the False Sky | Kein:[Über]Leben tells the story of the rebellion colony struggling for surivial as winter approaches. This story highlights  internal struggles, personal sacrifices, and the intricate dynamics of family relationships. <br> <br>
