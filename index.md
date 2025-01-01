@@ -17,6 +17,7 @@ I'm multifunctional for this game - co-writer, editor, and sprite artist !
 
 ## Accomplishments
 <br>
+Below are my recent accomplishments: 
 <h2> Indie Games </h2>
 <h2> Under the False Sky | Kein:[Über]Leben  </h2>
 <img src="assets/gallery/gamecover/HA3cfh.png" alt="My Image" align="right">
@@ -44,7 +45,7 @@ If you want to see some of my academic publications, click here for my <a href="
 
 ## Art 
 {% include slider.html selector="slider1" %}
-Check out my <a href ="https://www.etsy.com/shop/MoonwispShop">Etsy shop</a> and my <a href ="https://www.instagram.com/moonwispshop">Moonwisp</a> Instagram ! 
+Check out my <a href ="https://www.etsy.com/shop/MoonwispShop">Etsy shop</a> and my <a href ="https://www.instagram.com/moonwispshop">Moonwisp</a> Instagram ! I update my Instagram and my Etsy store 
 
 
 
