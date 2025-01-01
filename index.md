@@ -19,41 +19,33 @@ I'm multifunctional for this game - co-writer, editor, and sprite artist !
 <h1> Indie Games </h1>
 <br>
 <h2> Under the False Sky | Kein:[Über]Leben  </h2>
-Taking place eight years after Under the False Sky [RE]:Idealize, Under the False Sky | Kein:[Über]Leben tells the story of the rebellion colony struggling for surivial as winter approaches. This story highlights  internal struggles, personal sacrifices, and the intricate dynamics of family relationships.
-<br>
-For Under the False Sky | Kein:[Über]Leben, I was one of the editors. Download and play the <a href="https://elduator.itch.io/utfs-keinueberleben"> game </a> here! 
-<br>
-<hr>
-<br>
+Taking place eight years after Under the False Sky [RE]:Idealize, Under the False Sky | Kein:[Über]Leben tells the story of the rebellion colony struggling for surivial as winter approaches. This story highlights  internal struggles, personal sacrifices, and the intricate dynamics of family relationships. <br> <br>
+For Under the False Sky | Kein:[Über]Leben, I was one of the editors. Download and play the <a href="https://elduator.itch.io/utfs-keinueberleben"> game </a> here! <br>
+
+<hr><br>
 <h2>Under the False Sky [heca; tomb]</h2>
-<img src="assets/gallery/hecatomb.png" alt="My Image" align="left"> Under the False Sky [heca; tomb], a prequel to the Under The False Sky Series, chronicles the journey of scientists who, while investigating mysterious disasters, stumble upon a secluded tribe's secret. Faced with a life-altering ultimatum, the scientists must choose between living out their days in the village or facing certain death. <br>
-<br>
+<img src="assets/gallery/hecatomb.png" alt="My Image" align="left"> Under the False Sky [heca; tomb], a prequel to the Under The False Sky Series, chronicles the journey of scientists who, while investigating mysterious disasters, stumble upon a secluded tribe's secret. Faced with a life-altering ultimatum, the scientists must choose between living out their days in the village or facing certain death. <br><br>
 For Under the False Sky [heca; tomb], I was an editor. Download and play the <a href="https://elduator.itch.io/hecatomb"> game </a>. 
-Currently, the demo is out and the full release is coming soon!
-<br>
-<hr>
-<br>
+Currently, the demo is out and the full release is coming soon! <br>
+
+<hr><br>
 <h3>Under The False Sky [IM]Pulse</h3>
-<img src="assets/gallery/impluse.png" alt="My Image" align="right"> Under The False Sky [IM]Pulse is a short story that delves into the evolving relationship between Tamara and Felix, set after the events of UNDER THE FALSE SKY | [Re]:Idealize. Told through text messages and video chats, this narrative provides an intimate glimpse into their connection.<br>
-<br>
-I was an editor for this project. Play the game on your browser on itch.io or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>!
-<br> 
-<hr>
-<br> 
-Click [here]({% link gameprojectspg.md %}) for all the games I've worked on. 
-<br> 
+<img src="assets/gallery/impluse.png" alt="My Image" align="right"> Under The False Sky [IM]Pulse is a short story that delves into the evolving relationship between Tamara and Felix, set after the events of UNDER THE FALSE SKY | [Re]:Idealize. Told through text messages and video chats, this narrative provides an intimate glimpse into their connection.<br> <br>
+I was an editor for this project. Play the game on your browser on itch.io or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>! <br> <br>
+
+<hr><br> 
+Click [here]({% link gameprojectspg.md %}) for all the games I've worked on. <br> 
+
 <hr>
 <h2>Academic Research Publications </h2>
 If you want to see some of my academic publications, click here for my <a href="https://scholar.google.com/citations?user=ytjqu-EAAAAJ&hl=en"> Google Scholar</a> profile.<br> 
-<br>
-<hr>
-<br>
+<br> <hr><br>
 
 ## Art 
-
 {% include slider.html selector="slider1" %}
-
 Check out my <a href ="https://www.etsy.com/shop/MoonwispShop">Etsy shop</a> and my <a href ="https://www.instagram.com/moonwispshop">Moonwisp</a> Instagram ! 
+
+
 
 <!-- # Connect with me 
 <ul class="icons">
