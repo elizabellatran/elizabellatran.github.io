@@ -1,5 +1,6 @@
 ---
 layout: default
+
 image_sliders:
   - slider1
 ---
@@ -39,7 +40,8 @@ Click [here]({% link gameprojectspg.md %}) for all the games I've worked on. <br
 <hr>
 <h2>Academic Research Publications </h2>
 If you want to see some of my academic publications, click here for my <a href="https://scholar.google.com/citations?user=ytjqu-EAAAAJ&hl=en"> Google Scholar</a> profile.<br> 
-<br> <hr><br>
+<br> 
+<hr> 
 
 ## Art 
 {% include slider.html selector="slider1" %}
