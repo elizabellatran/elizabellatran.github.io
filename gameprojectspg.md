@@ -8,8 +8,8 @@ title: "Game Development Projects"
 <h2> Under the False Sky | Kein:[Über]Leben  </h2>
 <img src="assets/gallery/gamecover/HA3cfh.png" alt="My Image" align="right">
 Taking place eight years after Under the False Sky [RE]:Idealize, Under the False Sky | Kein:[Über]Leben tells the story of the rebellion colony struggling for surivial as winter approaches. This story highlights  internal struggles, personal sacrifices, and the intricate dynamics of family relationships. <Br> <br>
-For UTFS | Kein:[Über]Leben, I was one of the editors. This game was submitted to Winter VN Jam 2024 and Dying Year VN Jam 2024. Download and play the <a href="https://elduator.itch.io/utfs-keinueberleben"> game </a> here! 
- <br>
+For UTFS | Kein:[Über]Leben, I was one of the editors. This game was submitted to Winter VN Jam 2024 and Dying Year VN Jam 2024. Download and play the <a href="https://elduator.itch.io/utfs-keinueberleben"> game </a> here!<br><br>
+
 <hr>
 <br>
 <h2>Under the False Sky [heca; tomb]</h2>
