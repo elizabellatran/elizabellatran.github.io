@@ -9,6 +9,12 @@ baseurl:          ''
 author:
   name:           'Elizabeth'
 
+# Navigation
+nav:
+  - title: "Home"
+    url: "/https://elizabellatran.github.io/" 
+
+
 markdown: kramdown
 kramdown: 
   input: GFM
