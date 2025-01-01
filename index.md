@@ -3,23 +3,28 @@ layout: default
 image_sliders:
   - slider1
 ---
-<b>Note:</b> Page is still under construction  <br>
-<br>
 
 ## About 
 Hi, I’m Elizabeth, a Bay Area dweller with a love for all things cute. By day, I'm a Data Scientist. By night, I'm an indie game developer - part of <a href="https://pixelboltgames.wixsite.com/pixelbolt-games">PixelBolt </a> team, inspiring Youtuber - and a hobby artist, exploring my creative side after hours. 🎨🎮
-
 <hr>
 
 ## Current Projects
 <h2><a href= "https://pixelboltgames.wixsite.com/pixelbolt-games/projects">Project Makina</a></h2>
 Demo coming early 2025 ~ <br>
 I'm multifunctional for this game - co-writer, editor, and sprite artist ! 
-
 <hr>
 
 ## Accomplishments
-Indie Games 
+<br>
+<h1> Indie Games </h1>
+<br>
+<h2> Under the False Sky | Kein:[Über]Leben  </h2>
+Taking place eight years after Under the False Sky [RE]:Idealize, Under the False Sky | Kein:[Über]Leben tells the story of the rebellion colony struggling for surivial as winter approaches. This story highlights  internal struggles, personal sacrifices, and the intricate dynamics of family relationships.
+<br>
+For Under the False Sky | Kein:[Über]Leben, I was one of the editors. Download and play the <a href="https://elduator.itch.io/utfs-keinueberleben"> game </a> here! 
+<br>
+<hr>
+<br>
 <h2>Under the False Sky [heca; tomb]</h2>
 <img src="assets/gallery/hecatomb.png" alt="My Image" align="left"> Under the False Sky [heca; tomb], a prequel to the Under The False Sky Series, chronicles the journey of scientists who, while investigating mysterious disasters, stumble upon a secluded tribe's secret. Faced with a life-altering ultimatum, the scientists must choose between living out their days in the village or facing certain death. <br>
 <br>
