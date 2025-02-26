@@ -6,7 +6,7 @@ title: "Game Development Projects"
 <Br>
 <Br>
 <h2> Mice and Vices  </h2>
-<img src="assets/gallery/gamecover/HA3cfh.png" alt="My Image" align="left">
+<img src="assets/gallery/gamecover/micevice.png" alt="My Image" align="left">
 This game was part of a final project - and I collaborated by being a play-tester and proofreader for the script.  <be>
 Download the play the <a href="https://jeblyfish.itch.io/mice-vices"> game</a>!
 
