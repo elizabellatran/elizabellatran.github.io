@@ -6,7 +6,7 @@ image_sliders:
 ---
 
 ## About 
-Hi, I’m Elizabeth, a Bay Area dweller with a love for all things cute. By day, I'm a Data Scientist. By night, I'm an indie game developer - part of <a href="https://pixelboltgames.wixsite.com/pixelbolt-games">PixelBolt </a> team- inspiring Youtuber, and a hobby artist, exploring my creative side after hours. 🎨🎮
+Hi, I’m Elizabeth, a Bay Area dweller with a love for all things cute. By day, I'm a Data Scientist. By night, I'm an indie game developer - part of <a href="https://pixelboltgames.wixsite.com/pixelbolt-games">PixelBolt </a> team- <a href="https://www.youtube.com/@cutebrainpants">inspiring Youtuber</a>, and a hobby artist, exploring my creative side after hours. 🎨🎮
 <hr>
 
 ## Current Projects
