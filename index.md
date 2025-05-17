@@ -12,9 +12,12 @@ Hi, I’m Elizabeth, a Bay Area dweller with a love for all things cute. By day,
 ## Current Projects
 <h2><a href= "https://pixelboltgames.wixsite.com/pixelbolt-games/projects">Project Makina</a></h2>
 Demo coming early 2025 ~ <br>
-I'm multifunctional for this game - co-writer, editor, GUI artist, and sprite artist ! 
-<hr>
+I'm multifunctional for this game - co-writer, editor, GUI artist, and sprite artist ! <br> 
+<hr><br>
 
+<h2> The Woeful Rose & The Bitter Crow </h2>
+After years as the Truthlight of Soleil (and surviving its hazards), Leone thought moving to Roque would bring peace. But a string of strange deaths shatters the calm, forcing them to collaborate with two unusual Warden cultists. Amidst historical religious tensions, Leone must uncover the cause of the deaths, facing a choice between open-mindedness and potentially fatal prejudice. Could this investigation lead to new bonds of friendship or love? The demo was originally part of OjiJam jam, but I'm an editor on the post-jam! Play the OjiJam Jam release of the <a  href = "https://itch.io/queue/c/3000724/the-sacrarium-universe?game_id=1926034"> game </a> in the meantime as the full game is about to be released! 
+<hr>
 ## Accomplishments
 <br>
 Below are my recent accomplishments: 
