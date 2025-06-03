@@ -18,8 +18,8 @@ I'm multifunctional for this game - co-writer, editor, GUI artist, and sprite ar
 <h2> The Woeful Rose & The Bitter Crow </h2>
 After years as the Truthlight of Soleil (and surviving its hazards), Leone thought moving to Roque would bring peace. But a string of strange deaths shatters the calm, forcing them to collaborate with two unusual Warden cultists. Amidst historical religious tensions, Leone must uncover the cause of the deaths, facing a choice between open-mindedness and potentially fatal prejudice. Could this investigation lead to new bonds of friendship or love? The demo was originally part of OjiJam jam, but I'm an editor on the post-jam! Play the OjiJam Jam release of the <a  href = "https://itch.io/queue/c/3000724/the-sacrarium-universe?game_id=1926034"> game </a> in the meantime as the full game is about to be released! <br> 
 <br> Check out other games from the <a href="https://itch.io/c/3000724/the-sacrarium-universe">sacrarium-universe</a>.<br>
-
 <hr>
+
 ## Accomplishments
 <br>
 Below are my recent accomplishments: 
@@ -35,11 +35,6 @@ For Under the False Sky | Kein:[Über]Leben, I was one of the editors. Download 
 For Under the False Sky [heca; tomb], I was an editor. Download and play the <a href="https://elduator.itch.io/hecatomb"> game </a>. 
 Currently, the demo is out and the full release is coming soon! <br>
 
-<hr><br>
-<h3>Under The False Sky [IM]Pulse</h3>
-<img src="assets/gallery/impluse.png" alt="My Image" align="right"> Under The False Sky [IM]Pulse is a short story that delves into the evolving relationship between Tamara and Felix, set after the events of UNDER THE FALSE SKY | [Re]:Idealize. Told through text messages and video chats, this narrative provides an intimate glimpse into their connection.<br> <br>
-I was an editor for this project. Play the game on your browser on itch.io or download it <a href= "https://elduator.itch.io/utfs-impulse"> here</a>! <br> <br>
-
 <hr><br> 
 Click [here]({% link gameprojectspg.md %}) for all the games I've worked on. <br> 
 
@@ -50,9 +45,7 @@ If you want to see some of my academic publications, click here for my <a href="
 
 ## Art 
 {% include slider.html selector="slider1" %}
-Check out my <a href ="https://www.etsy.com/shop/MoonwispShop">Etsy shop</a> and my <a href ="https://www.instagram.com/moonwispshop">Moonwisp</a> Instagram ! I update my Instagram and my Etsy store 
-
-
+Check out my <a href ="https://www.etsy.com/shop/MoonwispShop">Etsy shop</a> and my <a href ="https://www.instagram.com/moonwispshop">Moonwisp</a> Instagram ! 
 
 <!-- # Connect with me 
 <ul class="icons">
