@@ -24,7 +24,11 @@ After years as the Truthlight of Soleil (and surviving its hazards), Leone thoug
 <br>
 Below are my recent accomplishments: 
 <h2> Indie Games </h2>
-
+<br>
+<br>
+<h2> Under the False Sky | Kein:[Über]Leben  </h2>
+<img src="assets/gallery/gamecover/HA3cfh.png" alt="My Image" align="left">
+For X, I was a beta tester, ensuring the game's functionality (working UI, music, spelling, bugs). 
 
 <h2> Under the False Sky | Kein:[Über]Leben  </h2>
 <img src="assets/gallery/gamecover/HA3cfh.png" alt="My Image" align="right">
