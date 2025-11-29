@@ -8,8 +8,8 @@ title: "Game Development Projects"
 <Br>
 <h2> Mice and Vices  </h2>
 <img src="assets/gallery/gamecover/micevice.png" alt="My Image" align="left">
-Together two mice detectives, Raz Berries and Sunny Whisk, investigate a museum robbery as they travel to Twintails, Raz's hometown. 
-This game was part of a thesis project - and I collaborated by being a play-tester and proofreader for the script.  <br>
+Together, two mice detectives, Raz Berries and Sunny Whisk, investigate a museum robbery as they travel to Twintails, Raz's hometown. 
+This game was part of a thesis project - and I collaborated by being a play-tester and proofreader for the script while also being a mentor for the programmer of the game dev group.  <br>
 <br> <br>
 
 Download and play this cute mystery <a href="https://jeblyfish.itch.io/mice-vices"> game</a> here!
