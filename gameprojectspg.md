@@ -3,15 +3,6 @@ layout: default
 title: "Game Development Projects"
 ---
 <h1>2025 </h1>
-<Br>
-<hr><br>
-<h2>Under the False Sky [heca; tomb]</h2>
-<img src="assets/gallery/hecatomb.png" alt="My Image" align="left"> Under the False Sky [heca; tomb], a prequel to the Under The False Sky Series, chronicles the journey of scientists who, while investigating mysterious disasters, stumble upon a secluded tribe's secret. Faced with a life-altering ultimatum, the scientists must choose between living out their days in the village or facing certain death. <br><br>
-For Under the False Sky [heca; tomb], I was an editor. Download and play the <a href="https://elduator.itch.io/hecatomb"> game </a>. 
-Currently, the demo is out and the full release is coming soon! <br>
-
-<hr><br> 
-Click [here]({% link gameprojectspg.md %}) for all the games I've worked on. <br> 
 
 <Br>
 <h2> Mice and Vices  </h2>
@@ -27,6 +18,16 @@ Download and play this cute mystery <a href="https://jeblyfish.itch.io/mice-vice
 <br>
 <h1>2024 </h1>
 <Br>
+<Br>
+<hr><br>
+<h2>Under the False Sky [heca; tomb]</h2>
+<img src="assets/gallery/hecatomb.png" alt="My Image" align="left"> Under the False Sky [heca; tomb], a prequel to the Under The False Sky Series, chronicles the journey of scientists who, while investigating mysterious disasters, stumble upon a secluded tribe's secret. Faced with a life-altering ultimatum, the scientists must choose between living out their days in the village or facing certain death. <br><br>
+For Under the False Sky [heca; tomb], I was an editor. Download and play the <a href="https://elduator.itch.io/hecatomb"> game </a>. 
+Currently, the demo is out and the full release is coming soon! <br>
+
+<hr><br> 
+Click [here]({% link gameprojectspg.md %}) for all the games I've worked on. <br> 
+
 <Br>
 <h2> Under the False Sky | Kein:[Über]Leben  </h2>
 <img src="assets/gallery/gamecover/HA3cfh.png" alt="My Image" align="right">
