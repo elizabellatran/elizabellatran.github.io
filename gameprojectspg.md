@@ -2,8 +2,9 @@
 layout: default 
 title: "Game Development Projects"
 ---
+<br>
+<hr>
 <h1>2025 </h1>
-
 <Br>
 <h2> Mice and Vices  </h2>
 <img src="assets/gallery/gamecover/micevice.png" alt="My Image" align="left">
@@ -13,8 +14,6 @@ This game was part of a thesis project - and I collaborated by being a play-test
 
 Download and play this cute mystery <a href="https://jeblyfish.itch.io/mice-vices"> game</a> here!
 
-<br>
-<hr>
 <br>
 <h1>2024 </h1>
 <Br>
