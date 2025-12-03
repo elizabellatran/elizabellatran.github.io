@@ -15,6 +15,8 @@ For PRE:_UDE | Love's Lost Requiem, I was a beta tester, ensuring the game's fun
 My beta testing involved comprehensive playthroughs on various systems to identify critical bugs, UI/UX issues, and areas of potential confusion for the player. I provided detailed feedback on the pacing, narrative coherence, and overall player experience to help polish the final product before launch.
 
 <br><br>
+<hr>
+<br>
 <h2> Mice and Vices  </h2>
 <img src="assets/gallery/gamecover/micevice.png" alt="My Image" align="left">
 Together, two mice detectives, Raz Berries and Sunny Whisk, investigate a museum robbery as they travel to Twintails, Raz's hometown. 
@@ -24,7 +26,8 @@ As a play-tester, I focused on identifying and reporting critical bugs, evaluati
 <br> <br>
 
 Download and play this cute mystery <a href="https://jeblyfish.itch.io/mice-vices"> game</a> here!
-
+<hr>
+<br>
 <br>
 <h1>2024 </h1>
 <Br>
