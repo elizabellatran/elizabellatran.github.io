@@ -1,12 +1,8 @@
 ---
-layout: page 
-title: "Game Development Projects"
+layout: default
+
 ---
 
-<div class="page">
-  <h1 class="Game Development Projects">{{ Game Development Projects }}</h1>
-  {{ content }}
-</div>
 
 <h1>2025 </h1>
 <Br>
