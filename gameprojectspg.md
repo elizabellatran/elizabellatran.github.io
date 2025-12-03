@@ -60,6 +60,6 @@ For <a href="https://deniz-g-lerosi.itch.io/chromatic-agape">Chromatic Agape</a>
 <br><br>
 As an assets programmer, I was responsible for integrating all visual and audio assets into the Ren'Py engine, ensuring smooth transitions and proper layering of sprites, backgrounds, and music. In my editor role, I focused on making the fantasy dialogue sound whimsical yet meaningful, maintaining consistency across the dual narrative of the protagonist's real and painted worlds.
 <hr>
-
+<br>
 <a href="https://elizabellatran.github.io/"> Back to the main page</a>
 
