@@ -24,8 +24,6 @@ After years as the Truthlight of Soleil (and surviving its hazards), Leone thoug
 <br>
 Below are my recent accomplishments: 
 <h2> Indie Games </h2>
-<br>
-<br>
 <h2> PRE:_UDE | Love's Lost Requiem  </h2>
 <img src="assets/gallery/gamecover/requiem.png" alt="My Image" align="left">
 PRE:_UDE | Love's Lost Requiem is an otome psychological horror game, where you (MC) seem to be homebound with only the physical company of your childhood friend, Ravi. 
