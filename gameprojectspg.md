@@ -54,9 +54,12 @@ Despite the 1000-word limit, my editing role was crucial for maximizing the stor
 <hr>
 <br>
 <h2>Chromatic Agape</h2>
-<img src="assets/gallery/chromatic2.png" alt="My Image"align="left"> Sev, a medical graduate, finds themselves transported into the world of their childhood painting. Confronted by villainous pixies and revered by colorful heroes, Sev embarks on a quest to uncover the true intentions of their creations. <br>
+ Sev, a medical graduate, finds themselves transported into the world of their childhood painting. Confronted by villainous pixies and revered by colorful heroes, Sev embarks on a quest to uncover the true intentions of their creations. <br>
 <br>
 For <a href="https://deniz-g-lerosi.itch.io/chromatic-agape">Chromatic Agape</a>, I was an assets programmer and one of the editors for the NaNoRen2024 and OtomeJam2024 release.
 <br><br>
 As an assets programmer, I was responsible for integrating all visual and audio assets into the Ren'Py engine, ensuring smooth transitions and proper layering of sprites, backgrounds, and music. In my editor role, I focused on making the fantasy dialogue sound whimsical yet meaningful, maintaining consistency across the dual narrative of the protagonist's real and painted worlds.
 <hr>
+
+<a href="https://elizabellatran.github.io/"> Back to the main page</a>
+
