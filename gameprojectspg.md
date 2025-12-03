@@ -6,15 +6,13 @@ title: "Game Development Projects"
 <hr>
 <h1>2025 </h1>
 <Br>
-
-<br>
 <h2> PRE:_UDE | Love's Lost Requiem  </h2>
 <img src="assets/gallery/gamecover/requiem.png" alt="My Image" align="right">
 PRE:_UDE | Love's Lost Requiem is an otome psychological horror game, where you (MC) seem to be homebound with only the physical company of your childhood friend, Ravi. 
 For PRE:_UDE | Love's Lost Requiem, I was a beta tester, ensuring the game's functionality (working UI, music, spelling, bugs). Play on the site or download and play the demo <a href="https://elduator.itch.io/prelude">here</a>.  <br><br>
 My beta testing involved comprehensive playthroughs on various systems to identify critical bugs, UI/UX issues, and areas of potential confusion for the player. I provided detailed feedback on the pacing, narrative coherence, and overall player experience to help polish the final product before launch.
 
-<br><br>
+<br>
 <hr>
 <br>
 <h2> Mice and Vices  </h2>
@@ -23,21 +21,19 @@ Together, two mice detectives, Raz Berries and Sunny Whisk, investigate a museum
 This game was part of a thesis project - and I collaborated by being a play-tester and proofreader for the script while also being a mentor for the programmer of the game dev group.  <br>
 <br>
 As a play-tester, I focused on identifying and reporting critical bugs, evaluating the puzzle difficulty, and assessing the overall user experience flow. My role as proofreader involved meticulously checking the script for grammatical errors, consistency in character dialogue, and ensuring the mystery narrative was clear and engaging for the player.
-<br> <br>
-
+<br> 
 Download and play this cute mystery <a href="https://jeblyfish.itch.io/mice-vices"> game</a> here!
 <hr>
-<br>
+
 <br>
 <h1>2024 </h1>
-<Br>
 <Br>
 <h2> Under the False Sky | Kein:[Über]Leben  </h2>
 <img src="assets/gallery/gamecover/HA3cfh.png" alt="My Image" align="right">
 Taking place eight years before Under the False Sky [RE]:Idealize, Under the False Sky | Kein:[Über]Leben tells the story of the rebellion colony struggling for surivial as winter approaches. This story highlights  internal struggles, personal sacrifices, and the intricate dynamics of family relationships. <Br> <br>
 For UTFS | Kein:[Über]Leben, I was one of the editors. This game was submitted to Winter VN Jam 2024 and Dying Year VN Jam 2024. Download and play the <a href="https://elduator.itch.io/utfs-keinueberleben">game</a> here!<br><br>
 In my editing role, I performed comprehensive script reviews to enhance the emotional weight and pacing of the story's dramatic elements. I focused on maintaining narrative consistency across multiple character arcs and polished the text to ensure a professional and impactful reading experience for the player.
-<br><br>
+<br>
 
 <hr>
 <br>
@@ -58,11 +54,9 @@ Despite the 1000-word limit, my editing role was crucial for maximizing the stor
 <hr>
 <br>
 <h2>Chromatic Agape</h2>
-<img src="assets/gallery/chromatic2.png.png" alt="My Image"align="left"> Sev, a medical graduate, finds themselves transported into the world of their childhood painting. Confronted by villainous pixies and revered by colorful heroes, Sev embarks on a quest to uncover the true intentions of their creations. <br>
+<img src="assets/gallery/chromatic2.png" alt="My Image"align="left"> Sev, a medical graduate, finds themselves transported into the world of their childhood painting. Confronted by villainous pixies and revered by colorful heroes, Sev embarks on a quest to uncover the true intentions of their creations. <br>
 <br>
 For <a href="https://deniz-g-lerosi.itch.io/chromatic-agape">Chromatic Agape</a>, I was an assets programmer and one of the editors for the NaNoRen2024 and OtomeJam2024 release.
 <br><br>
 As an assets programmer, I was responsible for integrating all visual and audio assets into the Ren'Py engine, ensuring smooth transitions and proper layering of sprites, backgrounds, and music. In my editor role, I focused on making the fantasy dialogue sound whimsical yet meaningful, maintaining consistency across the dual narrative of the protagonist's real and painted worlds.
 <hr>
-<br>
-<br><a href="elizabellatran.github.io"> Go back to the main page </a><br>
