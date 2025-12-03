@@ -27,7 +27,7 @@ Below are my recent accomplishments:
 <br>
 <br>
 <h2> PRE:_UDE | Love's Lost Requiem  </h2>
-<img src="assets/gallery/gamecover/requiem.png" alt="My Image" align="right">
+<img src="assets/gallery/gamecover/requiem.png" alt="My Image" align="left">
 PRE:_UDE | Love's Lost Requiem is an otome psychological horror game, where you (MC) seem to be homebound with only the physical company of your childhood friend, Ravi. 
 For PRE:_UDE | Love's Lost Requiem, I was a beta tester, ensuring the game's functionality (working UI, music, spelling, bugs). Play on the site or download and play the demo <a href="https://elduator.itch.io/prelude">here</a>.  <br><br>
 
