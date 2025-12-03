@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: page 
 title: "Game Development Projects"
 ---
 <h1>2025 </h1>
