@@ -6,7 +6,7 @@ layout: default
 <h1>2026 </h1>
 
 <br>
-<hr2> Spirit Detective Chronicles - 1 </h2>
+<h2> Spirit Detective Chronicles - 1 </h2>
 <br> Released during NaNoRenO 2026 
  Milena sought refuge in Germany to escape from her twin brother's gaze after their parents' death. Twelve years later, she returns to her hometown and is reunited with her childhood friend Keisuke. Together, they solve supernatural incidents around town. <br> 
 This was released during NaNoRenO 2026, and I was one of the editors. Currently, this mystery romance visual novel contains the first day of three. Download and play this <a href="https://elduator.itch.io/spirit-detective-chronicles-1"> demo</a> here!   <br>
